@@ -6,5 +6,10 @@
     { "id": 4, "address": "Avenue 2", "city": "City D", "state": "California", "zip_code": "123232", "unit": "A", "apn": "123456" },
     { "id": 5, "address": "Street D", "city": "City E", "state": "Rio de Janeiro", "zip_code": "222222", "unit": "B", "apn": "78910" },
     { "id": 6, "address": "Street E", "city": "City F", "state": "Piauí", "zip_code": "2222121", "unit": "C", "apn": "11121314" }
+  ],
+  "entities": [
+    { "id": 1, "name": "Entity 1" },
+    { "id": 2, "name": "Entity 2" },
+    { "id": 3, "name": "Entity 3" }
   ]
 }
