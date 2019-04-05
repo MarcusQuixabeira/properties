@@ -2,7 +2,7 @@
   "properties": [
     { "id": 1, "address": "Avenue 1", "city": "City A", "state": "California", "zip_code": "123232", "unit": "A", "apn": "123456" },
     { "id": 2, "address": "Street A", "city": "City B", "state": "California", "zip_code": "222222", "unit": "B", "apn": "78910" },
-    { "id": 3, "address": "Street B", "city": "City C", "state": "Piauí", "zip_code": "2222121", "unit": "C", "apn": "11121314" },
+    { "id": 3, "address": "Street B", "city": "City C", "state": "Piauí", "zip_code": "2222121", "unit": "C", "apn": "11121314" }
   ],
   "entities": [
     { "id": 1, "name": "Entity 1" },
