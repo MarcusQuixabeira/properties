@@ -8,11 +8,11 @@
     { "id": 1, "name": "Entity 1" },
     { "id": 2, "name": "Entity 2" },
     { "id": 3, "name": "Entity 3" }
-  ]
+  ],
   "deals": [
     {"loan": "12311", "address": "Av. St. Metallica", "amount": "2,500,200.00", "funded": "05/05/19", "maturity_date": "06/05/19", "initial_holdback:" "150,000.00", "balance": "80,000.00", "current_holdback_status": "Approved", "montly_payment: "20,000.00"},
     {"loan": "12312", "address": "Av. St. RedHot C P", "amount": "1,005,000.00", "funded": "04/01/19", "maturity_date": "05/01/19", "initial_holdback": "100,000.00", "balance": "20,000.00", "current_holdback_status": "Approved", "montly_payment: "20,000.00"},
     {"loan": "12313", "address": "Av. St. Iron Maiden", "amount": "1,000,000.00", "funded": "04/20/19", "maturity_date": "05/20/19", "initial_holdback": "50,000.00", "balance": "10,000.00", "current_holdback_status": "Requested", "montly_payment: "20,000.00"},
-    {"loan": "12314", "address": "Av. St. Pearl Jam", "amount": "3,000,500.00", "funded": "03/15/19", "maturity_date": "04/15/19", "initial_holdback": "5,000.00", "balance": "24,000.00", "current_holdback_status": "None", "montly_payment: "20,000.00"}
+    {"loan": "12314", "address": "Av. St. Pearl Jam", "amount": "3,000,500.00", "funded": "03/15/19", "maturity_date": "04/15/19", "initial_holdback": "5,000.00", "balance": "24,000.00", "current_holdback_status": "None", "montly_payment: "20,000.00"},
   ]
 }
