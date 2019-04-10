@@ -20,9 +20,9 @@
     {"loan": "12318", "status": "paid", "address": "Av. St. Cocomelon", "amount": "3,000,500.00", "funded": "03/15/19", "maturity_date": "04/15/19","initial_holdback": "50,000.00", "balance": "10,000.00", "current_holdback_status": "Requested", "montly_payment": "20,000.00"}
   ],
   "deals_in_progress": [
-    {"loan": "12311", "address": "Av. St. Metallica", "transaction_type": "purchase", "deal_category": "PTD conditions", "percentage_to_funded": 0.25, "amount": "2,500,200.00", "estimated_close_date": "05/05/19", "created_at": "03/01/19", "updated_at": "04/09/19", "submitted_at": "03/10/19"},
-    {"loan": "12313", "address": "Av. St. Iron Maiden", "transaction_type": "purchase", "deal_category": "In Progress", "percentage_to_funded": 0.50, "amount": "2,500,200.00", "estimated_close_date": "05/05/19", "created_at": "03/01/19", "updated_at": "04/09/19", "submitted_at": "03/10/19"},
-    {"loan": "12314", "address": "Av. St. Coldplay", "transaction_type": "purchase", "deal_category": "In Proggress", "percentage_to_funded": 0.40, "amount": "2,500,200.00", "estimated_close_date": "05/05/19", "created_at": "03/01/19", "updated_at": "04/09/19", "submitted_at": "03/10/19"},
-    {"loan": "12312", "address": "Av. St. Cocomelon", "transaction_type": "purchase", "deal_category": "Docs", "percentage_to_funded": 0.80, "amount": "2,500,200.00", "estimated_close_date": "05/05/19", "created_at": "03/01/19", "updated_at": "04/09/19", "submitted_at": "03/10/19"}
+    {"loan": "12311", "address": "Av. St. Metallica", "transaction_type": "purchase", "deal_category": "PTD conditions", "percentage_to_funded": "0.25", "amount": "2,500,200.00", "estimated_close_date": "05/05/19", "created_at": "03/01/19", "updated_at": "04/09/19", "submitted_at": "03/10/19"},
+    {"loan": "12313", "address": "Av. St. Iron Maiden", "transaction_type": "purchase", "deal_category": "In Progress", "percentage_to_funded": "0.50", "amount": "2,500,200.00", "estimated_close_date": "05/05/19", "created_at": "03/01/19", "updated_at": "04/09/19", "submitted_at": "03/10/19"},
+    {"loan": "12314", "address": "Av. St. Coldplay", "transaction_type": "purchase", "deal_category": "In Proggress", "percentage_to_funded": "0.40", "amount": "2,500,200.00", "estimated_close_date": "05/05/19", "created_at": "03/01/19", "updated_at": "04/09/19", "submitted_at": "03/10/19"},
+    {"loan": "12312", "address": "Av. St. Cocomelon", "transaction_type": "purchase", "deal_category": "Docs", "percentage_to_funded": "0.80", "amount": "2,500,200.00", "estimated_close_date": "05/05/19", "created_at": "03/01/19", "updated_at": "04/09/19", "submitted_at": "03/10/19"}
   ]
 }
