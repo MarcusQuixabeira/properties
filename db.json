@@ -17,6 +17,6 @@
     {"loan": "12314", "status": "active", "address": "Av. Red Hot CP", "transaction_type": "purchase", "deal_category": "In Progress", "percentage_to_funded": "0.40", "amount": "2,500,200.00", "estimated_close_date": "05/05/19", "created_at": "03/01/19", "updated_at": "04/09/19", "submitted_at": "03/10/19"},
     {"loan": "12314", "status": "paid", "address": "Av. Cocomelon", "transaction_type": "purchase", "deal_category": "In Progress", "percentage_to_funded": "0.40", "amount": "2,500,200.00", "estimated_close_date": "05/05/19", "created_at": "03/01/19", "updated_at": "04/09/19", "submitted_at": "03/10/19"},
     {"loan": "12314", "status": "active", "address": "Av. Pearl Jam", "transaction_type": "purchase", "deal_category": "In Progress", "percentage_to_funded": "0.40", "amount": "2,500,200.00", "estimated_close_date": "05/05/19", "created_at": "03/01/19", "updated_at": "04/09/19", "submitted_at": "03/10/19"},
-    {"loan": "12314", "status": "active", "address": "Av. Xuxa", "transaction_type": "purchase", "deal_category": "In Progress", "percentage_to_funded": "0.40", "amount": "2,500,200.00", "estimated_close_date": "05/05/19", "created_at": "03/01/19", "updated_at": "04/09/19", "submitted_at": "03/10/19"},
+    {"loan": "12314", "status": "active", "address": "Av. Xuxa", "transaction_type": "purchase", "deal_category": "In Progress", "percentage_to_funded": "0.40", "amount": "2,500,200.00", "estimated_close_date": "05/05/19", "created_at": "03/01/19", "updated_at": "04/09/19", "submitted_at": "03/10/19"}
   ]
 }
